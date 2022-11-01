@@ -1,0 +1,14 @@
+next 13 でブログ作ってる
+
+npx create-next-app@latest n --ts --experimental-app
+でインストールした
+
+create-next-app@13.0.0
+Ok to proceed?
+と聞かれて y　と入力してエンター
+
+
+npm i sass　でsassをインストールした
+
+新機能
+npm i @next/font でgooglefont をインストールした
